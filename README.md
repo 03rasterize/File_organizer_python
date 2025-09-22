@@ -42,3 +42,11 @@ downloads/
 Mensaje en consola:
 
 Files organized! Number of files moved: 4
+
+Futuras mejoras/metas:
+
+-Soporte para organizar también por fecha.
+
+-Interfaz gráfica simple para usuarios no técnicos.
+
+-Configuración para elegir carpeta de destino desde consola.
