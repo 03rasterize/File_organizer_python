@@ -19,34 +19,48 @@ La idea surgió de mi necesidad personal: como artista digital, suelo acumular m
 
 ## Ejemplo de uso
 
-Antes de correr el script:
+**Antes de correr el script:**
 
 downloads/
+
 ├── referencia1.jpg
+
 ├── boceto.png
+
 ├── texto.txt
+
 ├── notas.pdf
 
-Después de correr el script:
+
+**Después de correr el script:**
 
 downloads/
+
 ├── jpg/
+
 │ └── referencia1.jpg
+
 ├── png/
+
 │ └── boceto.png
+
 ├── txt/
+
 │ └── texto.txt
+
 ├── pdf/
+
 │ └── notas.pdf
 
-Mensaje en consola:
+
+**Mensaje en consola:**
 
 Files organized! Number of files moved: 4
 
-Futuras mejoras/metas:
+**Futuras mejoras/metas:**
 
--Soporte para organizar también por fecha.
+- Soporte para organizar también por fecha.
 
--Interfaz gráfica simple para usuarios no técnicos.
+- Interfaz gráfica simple para usuarios no técnicos.
 
--Configuración para elegir carpeta de destino desde consola.
+- Configuración para elegir carpeta de destino desde consola.
